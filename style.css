@@ -1,0 +1,41 @@
+body {
+    background-color: #706868;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #4a045c;
+    font-size: 24px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.scene {
+    border: 2px solid black;
+    padding: 1em;
+    margin-bottom: 10px;
+}
+.text {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.h2 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: #4a045c;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
